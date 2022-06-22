@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-image: -webkit-linear-gradient(0deg, #a9edef 20%, #67a1c7 90%);
+}
+
+.form {
+    
+    box-sizing: border-box;
+    border: 1px solid;
+    height: auto;
+    width: auto;
+    padding: 1rem;
+}
+
+#header {
+    text-align: center;
+    margin: auto;
+    width: 400px;
+    padding-top: 5rem;
+    
+}
+
+.details {
+    color: #000;
+    background: #FFF;
+    box-shadow: #000;
+    margin: auto;
+    width: 700px;
+
+}
+
+.btn {
+    border-radius: 12px;
+    font-size: 25px;
+    box-shadow: 5rem;
+    border-left: 10px;
+}
+
+.btn:hover {
+    background: #6a8bcd;
+}
